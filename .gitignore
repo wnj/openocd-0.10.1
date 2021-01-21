@@ -1,0 +1,12 @@
+*~
+*.o
+*.lo
+*.la
+*.Po
+*.Plo
+autom4te.cache/
+.dirstamp
+.libs/
+openocd
+minidriver_imp.h
+startup_tcl.inc
